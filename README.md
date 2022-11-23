@@ -17,6 +17,8 @@
 - 📫 You can reach me on [my email](mailto:francism56789@gmail.com).
 - ⚡ Fun fact: **I'm a huge baseball stat nerd!**
 
+</br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francis1009&show_icons=true&theme=dark&locale=en&layout=compact" alt="francis1009" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=francis1009&show_icons=true&theme=dark&locale=en" alt="francis1009" /></p>
 

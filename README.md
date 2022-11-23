@@ -19,8 +19,9 @@
 
 </br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francis1009&show_icons=true&theme=dark&locale=en&layout=compact" alt="francis1009" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=francis1009&show_icons=true&theme=dark&locale=en" alt="francis1009" /></p>
+<p><img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=francis1009&include_orgs=true&show_icons=true&theme=dark&locale=en&layout=compact" alt="francis1009" /></p>
+
+<p><img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=francis1009&include_orgs=true&show_icons=true&theme=dark&locale=en" alt="francis1009" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://github.com/francis1009" target="_blank">

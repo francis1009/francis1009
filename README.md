@@ -2,7 +2,7 @@
 <h3 align="center">A passionate computer science student from Singapore</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=francis1009&label=Profile%20views&color=0e75b6&style=flat" alt="francis1009" />
+  <img src="https://i.pinimg.com/originals/a9/c1/55/a9c155522574cc56904c0ba6af3387af.gif">
 </p>
 
 </br>
@@ -13,15 +13,17 @@
 - ✨ I have a strong interest towards **cybersecurity and networking!**
 - 🔭 I’m currently working on a portfolio website and a Chat Application with group feature.
 - 🌱 I’m currently learning **ReactJS with different UI libraries and Websocket implementation.**
-- 💬 Ask me about anything! I'm always down to have a chat.
+- 💬 Ask me about anime and manga! I'm down to talk with men of culture.
 - 📫 You can reach me on [my email](mailto:francism56789@gmail.com).
-- ⚡ Fun fact: **I'm a huge baseball stat nerd!**
+- ⚡ Fun fact: **I'm a huge baseball nerd!**
 
 </br>
 
-<p><img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=francis1009&include_orgs=true&show_icons=true&theme=dark&locale=en&layout=compact" alt="francis1009" /></p>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=francis1009&include_orgs=true&show_icons=true&theme=dark&locale=en&layout=compact" alt="francis1009" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=francis1009&include_orgs=true&show_icons=true&theme=dark&locale=en" alt="francis1009" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=francis1009&include_orgs=true&show_icons=true&theme=dark&locale=en" alt="francis1009" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://github.com/francis1009" target="_blank">
@@ -46,6 +48,16 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+</p>
+
+</br>
+
+<p align="center">
+  <img src="https://i.kym-cdn.com/photos/images/original/001/216/009/985.gif"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=francis1009&label=Profile%20views&color=0e75b6&style=flat" alt="francis1009" />
 </p>
 
 <!---

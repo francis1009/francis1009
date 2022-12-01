@@ -13,9 +13,7 @@
 - ✨ I have a strong interest towards **cybersecurity and networking!**
 - 🔭 I’m currently working on a portfolio website and a Chat Application with group feature.
 - 🌱 I’m currently learning **ReactJS with different UI libraries and Websocket implementation.**
-- 💬 Ask me about anime and manga! I'm down to talk with men of culture.
-- 📫 You can reach me on [my email](mailto:francism56789@gmail.com).
-- ⚡ Fun fact: **I'm a huge baseball nerd!**
+- 💬 Ask me about anime and manga!
 
 </br>
 

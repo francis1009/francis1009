@@ -12,8 +12,10 @@
 - 🏫 I'm currently studying in Singapore Management University, pursuing a degree in Computer Science.
 - ✨ I have a strong interest towards **cybersecurity and digital art!**
 - 🔭 I’m currently working on a portfolio website.
-- 🌱 I’m currently learning **ReactJS with different UI libraries and mobile application programming.**
+- 🌱 I’m currently learning **Web Development.**
+<!---
 - 💬 Ask me about anime and manga!
+--->
 
 </br>
 
@@ -51,15 +53,12 @@
 
 </br>
 
+<!---
 <p align="center">
   <img src="https://i.kym-cdn.com/photos/images/original/001/216/009/985.gif"/>
 </p>
+--->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=francis1009&label=Profile%20views&color=0e75b6&style=flat" alt="francis1009" />
 </p>
-
-<!---
-francis1009/francis1009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

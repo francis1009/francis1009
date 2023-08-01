@@ -10,7 +10,7 @@
 ## About Me
 
 - 🏫 I'm currently studying in Singapore Management University, pursuing a degree in Computer Science.
-- ✨ I have a strong interest towards **cybersecurity and digital art!**
+- ✨ I have a strong interest towards **cybersecurity and web development!**
 - 🔭 I’m currently working on a portfolio website.
 - 🌱 I’m currently learning **Web Development.**
 <!---

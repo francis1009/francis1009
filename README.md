@@ -32,6 +32,9 @@
 <a href="https://www.linkedin.com/in/francisvaldez/" target="_blank">
   <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://leetcode.com/francis1009/" target="_blank">
+  <img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06 alt=leetcode style="margin-bottom: 5px;" />
+</a>
 
 </br>
 

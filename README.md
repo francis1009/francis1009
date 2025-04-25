@@ -11,9 +11,10 @@
 
 - 🏫 Studying in Singapore Management University, pursuing a degree in Computer Science.
 - ✨ Strong interest towards **web development and cross-platform applications!**
-- 🔭 At the moment, I'm working on a cross-platform video library software.
+- 🔭 At the moment, I'm working on a Nuxt web app for monitoring cron jobs.
 - 🌱 Currently learning about **Flutter, Rust and Go.**
 - 💬 Avid lover of anime and manga!
+- 🤔 I have trouble naming things.
 
 </br>
 

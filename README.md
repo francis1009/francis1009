@@ -9,10 +9,10 @@
 
 ## About Me
 
-- 🏫 Studying in Singapore Management University, pursuing a degree in Computer Science.
-- ✨ Strong interest towards **web development and cross-platform applications!**
-- 🔭 At the moment, I'm working on a Nuxt web app for monitoring cron jobs.
-- 🌱 Currently learning about **Flutter, Rust and Go.**
+- 🏫 Earned a degree in Computer Science at Singapore Management University.
+- ✨ Strong interest towards **devtool development!**
+- 🔭 At the moment, I'm working on a Nuxt web app for monitoring cron jobs and an Image-To-ASCII Rust tool.
+- 🌱 Currently learning about **Rust and Computer Architecture.**
 - 💬 Avid lover of anime and manga!
 - 🤔 I have trouble naming things.
 
@@ -44,9 +44,12 @@
   <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="spring" width="40" height="40"/></a>
   <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="spring" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/></a>
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vitejs" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="react" width="40" height="40"/></a>
   <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="aws" width="40" height="40"/></a>

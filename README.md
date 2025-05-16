@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francis Valdez</h1>
-<h3 align="center">Computer science student from Singapore</h3>
+<h3 align="center">Software Engineer from Singapore</h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/a9/c1/55/a9c155522574cc56904c0ba6af3387af.gif">
@@ -19,8 +19,8 @@
 </br>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=francis1009&include_orgs=true&show_icons=true&theme=dark&locale=en&layout=compact" alt="francis1009" />
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=francis1009&include_orgs=true&show_icons=true&theme=dark&locale=en" alt="francis1009" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=francis1009&include_orgs=true&show_icons=true&theme=great-gatsby&locale=en&layout=compact&langs_count=8&count_weight=0.5" alt="francis1009" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api??username=francis1009&include_orgs=true&show_icons=true&theme=great-gatsby&locale=en" alt="francis1009" />
 </p>
 
 

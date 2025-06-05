@@ -11,7 +11,7 @@
 
 - 🏫 Earned a degree in Computer Science at Singapore Management University.
 - ✨ Strong interest towards **devtool development!**
-- 🔭 At the moment, I'm working on a Nuxt web app for monitoring cron jobs and an Image-To-ASCII Rust tool.
+- 🔭 At the moment, I'm working on a POS system built on Tauri and an Image-To-ASCII Rust tool.
 - 🌱 Currently learning about **Rust and Computer Architecture.**
 - 💬 Avid lover of anime and manga!
 - 🤔 I have trouble naming things.
@@ -54,15 +54,14 @@
   <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://v2.tauri.app/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" alt="tauri" width="40" height="40"/></a>
 </p>
 
 </br>
 
-<!---
 <p align="center">
   <img src="https://i.kym-cdn.com/photos/images/original/001/216/009/985.gif"/>
 </p>
---->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=francis1009&label=Profile%20views&color=0e75b6&style=flat" alt="francis1009" />

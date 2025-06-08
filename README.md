@@ -10,9 +10,9 @@
 ## About Me
 
 - 🏫 Earned a degree in Computer Science at Singapore Management University.
-- ✨ Strong interest towards **devtool development!**
-- 🔭 At the moment, I'm working on a POS system built on Tauri and an Image-To-ASCII Rust tool.
-- 🌱 Currently learning about **Rust and Computer Architecture.**
+- ✨ Strong interest towards **kernel and OS development!**
+- 🔭 At the moment, I'm working on a POS system built on Tauri and a tattoo artist portfolio for a client.
+- 🌱 Currently learning about **C, Computer Architecture, and Embedded Systems.**
 - 💬 Avid lover of anime and manga!
 - 🤔 I have trouble naming things.
 

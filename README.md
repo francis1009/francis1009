@@ -11,7 +11,7 @@
 
 - 🏫 Earned a degree in Computer Science at Singapore Management University.
 - ✨ Strong interest towards **kernel and OS development!**
-- 🔭 At the moment, I'm working on a POS system built on Tauri and a tattoo artist portfolio for a client.
+- 🔭 At the moment, I'm working on a KV Store Web API built on C with WASM and TypeScript.
 - 🌱 Currently learning about **C, Computer Architecture, and Embedded Systems.**
 - 💬 Avid lover of anime and manga!
 - 🤔 I have trouble naming things.
